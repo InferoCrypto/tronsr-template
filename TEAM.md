@@ -1,14 +1,2 @@
-## Founder
-
-Name: [name]
-Role: [role]
-
-## Team Member 1
-
-Name: [name]
-Role: [role]
-
-## Team Member 2
-
-Name: [name]
-Role: [role]
+Infero has an enthusiastic development team that aims to become one of the largest actively participating teams in the TRON ecosystem.
+for now, Infero has 5 team members, where Infero is in front of developers, operators and marketing personnel to solve all possible problems.
