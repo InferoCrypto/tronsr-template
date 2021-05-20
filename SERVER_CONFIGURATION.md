@@ -1,9 +1,8 @@
 working on the server!
 
-creating:
+creating server with:
 
-AWS x1.16xlarge
-CPU: 64 cores
-RAM: 1024 GB
-SSD: 1T(EBS)
-Network: 25Gbps
+- CPU: 64 cores
+- RAM: 1024 GB
+- M.2 SSD: 1T
+- Network: 40 Gbps
